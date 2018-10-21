@@ -4,7 +4,7 @@ title: Binary Search
 
 ## Binary Search
 
-A binary search locates an item in a sorted array by repeatedly dividing the search interval in half.
+A binary search finds an item in a sorted array by repeatedly dividing the search interval in half.
 
 How do you search a name in a telephone directory?
 
@@ -209,7 +209,7 @@ def binary_search(arr, l, r, target):
 ```
 
 ### Example in C++
-
+implementation.
 ```c++
 // Binary Search using iteration
 int binary_search(int arr[], int beg, int end, int num)
